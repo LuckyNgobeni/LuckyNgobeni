@@ -1,6 +1,4 @@
-### Lucky-Mpho-Ngobeni-Data-science-and-Data-analytics-portfolio
-
-### Data Analysis Analysis Project
+### Data Science and Analytics Project
 
 ### 📌Overview
 This project analyzes transactional data to evaluate transaction volumes, enabling insights into demand patterns and revenue growth.
