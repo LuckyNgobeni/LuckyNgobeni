@@ -1,4 +1,6 @@
-### Data Science and Analytics Project
+### Data Science and Analytics Project 
+
+### Bridging the gap between Business intelligence and data sciece - Business Data Science
 
 ### 📌Overview
 This project analyzes transactional data to evaluate transaction volumes, enabling insights into demand patterns and revenue growth.
