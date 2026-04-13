@@ -19,7 +19,7 @@ This project analyzes transactional data to evaluate transaction volumes, enabli
 - The forecast indicates no upward trend, suggesting that demand is not increasing
 
 ### General Insights
-- Debit cards are used more frequently than credit cards. (to be validated)
+- Debit cards are used more frequently than credit cards.
 - Mastercard records the highest transaction volumes among all card brands.
 - Females exhibit higher transaction volumes compared to males.
 - Most transactions comes from people  who are aged 40-50
