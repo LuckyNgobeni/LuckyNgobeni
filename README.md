@@ -29,4 +29,4 @@ This project analyzes transactional data to evaluate transaction volumes, enabli
 - transactions_data.csv
 - users_data.csv
 
-- To access the Python script, click on Repositories at the top, then navigate to LuckyNgobeni → Data Analytics Portfolio.ipynb.
+- To access the Python script, click on Repositories at the top, then navigate to LuckyNgobeni → Data Analysis.ipynb.
