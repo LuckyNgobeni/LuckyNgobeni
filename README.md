@@ -16,7 +16,7 @@ This project analyzes transactional data to evaluate transaction volumes, enabli
 
 ### 📊 Key Insights
 - Transaction volumes show an exponential growth initially, followed by a constant trend, resulting in slower growth and lower revenue
-- The forecast indicates no upward trend, suggesting that demand is not increasing
+- The forecast shows a flat trajectory with no signs of upward movement, indicating that demand remains stagnant and shows little to no movement for growth in the near term
 
 ### General Insights
 - Debit cards are used more frequently than credit cards.
